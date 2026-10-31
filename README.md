@@ -10,11 +10,10 @@ Welcome to the official and exclusive documentation repository for the core bot 
 
 ## 📑 Table of Contents
 
-* ✨ [System Overview](#1-system-overview--bot-suite)
-* 🤖 [The Night Bots](#1-system-overview--bot-suite)
-* 📜 [Terms and Conditions](#2-terms-and-conditions-الشروط والأحكام)
-* 🔒 [Privacy & Data Policy](#3-privacy--data-policy-سياسة الخصوصية والبيانات)
-* 🛠️ [Maintenance & Updates](#4-maintenance--updates-policy)
+* ✨ [System Overview & Bot Suite](#1-system-overview--bot-suite)
+* 📜 [Terms and Conditions](#2-terms-and-conditions)
+* 🔒 [Privacy & Data Policy](#3-privacy--data-policy)
+* 🛠️ [Maintenance & Updates Policy](#4-maintenance--updates-policy)
 
 ---
 
