@@ -1,8 +1,16 @@
 <div align="center">
 
-# 🌙 Night — Ecosystem & Official Documentation
+# 🌙 Night — Core Ecosystem & Documentation
 
-Welcome to the official and exclusive documentation repository for the core bot suite powering the **Night** server. This document serves as the single source of truth for all system specifications, operational rules, and terms of use.
+<p align="center">
+  <b>The private, ultra-high-availability infrastructure powering the Night ecosystem.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Operational-00FF66?style=for-the-badge&logo=icloud&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Environment-Secured-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Security-Encrypted-FF3366?style=for-the-badge&logo=gnupg&logoColor=white" alt="Security">
+</p>
 
 </div>
 
@@ -10,61 +18,79 @@ Welcome to the official and exclusive documentation repository for the core bot 
 
 ## 📑 Table of Contents
 
-* ✨ [System Overview & Bot Suite](#1-system-overview--bot-suite)
-* 📜 [Terms and Conditions](#2-terms-and-conditions)
-* 🔒 [Privacy & Data Policy](#3-privacy--data-policy)
-* 🛠️ [Maintenance & Updates Policy](#4-maintenance--updates-policy)
+* [1. System Overview & Architecture](#1-system-overview--architecture)
+* [2. Bot Ecosystem Suite](#2-bot-ecosystem-suite)
+* [3. Terms and Conditions](#3-terms-and-conditions)
+* [4. Privacy & Data Governance](#4-privacy--data-governance)
+* [5. Maintenance & Protocols](#5-maintenance--protocols)
 
 ---
 
-## 1. System Overview & Bot Suite
+## 1. System Overview & Architecture
 
-The **Night** ecosystem consists of three primary, purpose-built bots designed to maintain seamless operation, monitoring, and management within our private environment.
-
-* **Night Assistant**
-  * **Status Quote:** *STRONGER THAN EVER* 🔥
-  * **Core Function:** Primary server helper, managing daily administrative utilities, interactive commands, and general member assistance.
-* **Night Logix**
-  * **Status Quote:** *SERVER MONITOR* 👁️
-  * **Core Function:** Comprehensive system logging, state tracking, and continuous server health monitoring to maintain complete operational visibility.
-* **Night Networking**
-  * **Status Quote:** *UNLIMITED ENERGY* 🔋
-  * **Core Function:** Background infrastructure management, external integrations, response latency tracking, and automated service routines.
+The **Night** ecosystem is an elite, purpose-built infrastructure engineered to guarantee peak performance, zero downtime, and absolute operational security. Every component within our network is optimized for speed, precision, and complete data isolation.
 
 ---
 
-## 2. Terms and Conditions
+## 2. Bot Ecosystem Suite
 
-By accessing, interacting with, or utilizing any of the bots within the **Night** ecosystem, you explicitly agree to the following terms and conditions without exception:
+Our architecture relies on three primary, highly specialized autonomous services:
 
-### Article I: Scope of Use
-* These bots are engineered exclusively for the **Night** server environment. Unauthorized extraction, duplication, or deployment of these systems outside of our designated infrastructure is strictly prohibited.
-* All commands and automated interactions must be used responsibly and in accordance with the internal standards of our community.
+### 🛠️ Night Assistant
+* **Status Quote:** *STRONGER THAN EVER* 🔥
+* **Core Role:** Primary operational control, automated administrative execution, and advanced community member assistance.
+* **Specifications:** Handles real-time event triggers, dynamic role hierarchies, and interactive command responses with optimized sub-millisecond execution.
 
-### Article II: Prohibited Conduct
-Users and administrators are strictly forbidden from engaging in the following actions:
-* Attempting to exploit, reverse-engineer, bypass, or stress-test any command or backend process belonging to **Night Assistant**, **Night Logix**, or **Night Networking**.
-* Utilizing automated scripts, self-bots, or macros to spam bot endpoints or artificially inflate activity metrics.
-* Attempting unauthorized access to system logs, configuration files, or database records managed by the bot suite.
+### 👁️ Night Logix
+* **Status Quote:** *SERVER MONITOR* 👁️
+* **Core Role:** Deep system telemetry, state auditing, and continuous security monitoring.
+* **Specifications:** Maintains comprehensive audit trails, tracks server mutations, and records telemetry data to guarantee full infrastructure visibility.
 
-### Article III: Intellectual Property
-* All underlying code structures, command architectures, naming conventions, and system designs associated with **Night** bots remain exclusive intellectual property.
-
----
-
-## 3. Privacy & Data Policy
-
-* **Data Minimization:** The bot suite only collects and processes telemetry data strictly necessary for server stability, logging, and operational performance (such as message timestamps, latency metrics, and essential state changes).
-* **No Public Sharing:** All logs and system records handled by **Night Logix** are strictly private and restricted to authorized internal channels.
-* **Zero Credential Exposure:** No production tokens, API keys, passwords, or sensitive credentials are stored, logged, or exposed through this repository or the bot runtime environments.
+### 🔋 Night Networking
+* **Status Quote:** *UNLIMITED ENERGY* 🔋
+* **Core Role:** Backbone communication, API synchronization, and latency mitigation.
+* **Specifications:** Manages external webhooks, socket connections, and background heartbeat protocols to ensure uninterrupted node communication.
 
 ---
 
-## 4. Maintenance & Updates Policy
+## 3. Terms and Conditions
 
-* The system is subject to continuous updates, patches, and optimizations to ensure peak performance (*STRONGER THAN EVER* 🔥).
-* Downtime or service interruptions may occur during routine maintenance cycles managed through **Night Networking**.
+> **Binding Agreement:** Accessing, interacting with, or utilizing any component of the **Night** ecosystem constitutes an immediate and unconditional acceptance of the following terms.
+
+### Article I: Scope of Authorization
+* All bots, scripts, utilities, and assets deployed under the **Night** banner are strictly proprietary. Unauthorized extraction, cloning, replication, or external deployment is prohibited.
+* Authorized users must operate within designated parameters and adhere strictly to internal operational standards.
+
+### Article II: Prohibited Conduct & Restrictions
+The following actions will result in immediate revocation of access and permanent blacklisting:
+* **Reverse Engineering:** Attempting to decompile, exploit, bypass, or stress-test the source code, API routes, or backend logic of **Night Assistant**, **Night Logix**, or **Night Networking**.
+* **Automated Abuse:** Utilizing malicious scripts, macro automation, or self-bots to flood gateway endpoints or artificially manipulate activity telemetry.
+* **Data Harvesting:** Unauthorized attempts to access system logs, internal databases, or configuration parameters.
+
+### Article III: Intellectual Property Rights
+* All foundational design paradigms, custom command structures, naming conventions, and codebases associated with **Night** are protected as exclusive intellectual property.
 
 ---
 
-> **Final Notice:** This repository and all contents herein are strictly private. Violation of any terms outlined in this document may result in immediate revocation of access to the **Night** server and its associated bot infrastructure.
+## 4. Privacy & Data Governance
+
+* **Data Minimization Principles:** The system strictly gathers only the telemetry data required for operational stability, caching, and state verification (such as timestamps, execution logs, and network latency metrics).
+* **Strict Confidentiality:** All logs processed by **Night Logix** remain strictly internal and inaccessible to unauthorized entities.
+* **Credential Isolation:** No production tokens, private API keys, cryptographic secrets, or sensitive environment variables are ever hardcoded or exposed within public scopes.
+
+---
+
+## 5. Maintenance & Protocols
+
+* **Continuous Optimization:** Systems undergo regular background patches and infrastructural upgrades to uphold our performance standard (*STRONGER THAN EVER* 🔥).
+* **Service Interruptions:** Brief maintenance windows may occur dynamically, orchestrated via **Night Networking** to ensure zero long-term degradation.
+
+---
+
+<div align="center">
+
+> **Final Notice:** This repository and all internal specifications are strictly confidential. Infractions against these documented policies will trigger immediate administrative countermeasures.
+
+*© Night Infrastructure. All Rights Reserved.*
+
+</div>
